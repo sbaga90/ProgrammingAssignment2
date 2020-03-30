@@ -1,4 +1,4 @@
-##computes the inverse of the matrix; if the inverse has been 
+##computes the inverse of the matrix; if the inverse has been
 ##calculated, the function will retrieve the inverse value from 
 ##the cache. If no, then the function will recompute the inverse
 
