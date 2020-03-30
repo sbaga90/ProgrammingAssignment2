@@ -1,4 +1,4 @@
-##Functions to obtain the inverse of a matrix from the cache for
+##Functions to obtain the inverse of a matrix from the cache for 
 ##time consuming computations. The function displays lexical scoping
 ##which allows R to search if there is a value already cached for
 ##a function and uses that value instead of recomputing the value.
